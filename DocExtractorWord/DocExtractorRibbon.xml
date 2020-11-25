@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab id="tb-docExtractor" label="Doc-extractor" visible="true">
+        <group id="rg-extract"
+               label="Extract">
+          <button id="bt-extract"
+                  label="Extract"
+                  screentip="Extract document"
+                  supertip="Extract document content to file."
+                  imageMso="FileNewBlankDocument"
+                  size="large"
+                  onAction="OnExtractClick"/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
