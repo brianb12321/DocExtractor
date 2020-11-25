@@ -61,7 +61,7 @@ namespace DocExtractorWord.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Batch File (*.bat)|*.bat.
+        ///   Looks up a localized string similar to Text File (*.txt)|*.txt|Batch File (*.bat)|*.bat.
         /// </summary>
         internal static string extractFilter {
             get {

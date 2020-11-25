@@ -118,6 +118,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="extractFilter" xml:space="preserve">
-    <value>Batch File (*.bat)|*.bat</value>
+    <value>Text File (*.txt)|*.txt|Batch File (*.bat)|*.bat</value>
   </data>
 </root>
